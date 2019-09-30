@@ -1,2 +1,2 @@
 # Omnistack9.0
-Rocketseat Omnistack course week 
+Rocketseat Omnistack course in one week 
