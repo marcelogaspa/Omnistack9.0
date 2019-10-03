@@ -6,7 +6,7 @@ const SportSchema = new mongoose.Schema({
     price: Number,
     techs: [String],
     user: {
-        type: mongoose.Schema.type.ObjectId,
+        type: mongoose.Schema.Types.ObjectId,
         ref: 'User'
     }
 });
